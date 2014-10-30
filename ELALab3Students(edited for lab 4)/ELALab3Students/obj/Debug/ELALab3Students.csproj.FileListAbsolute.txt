@@ -1,0 +1,45 @@
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.exe.config
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.csprojResolveAssemblyReference.cache
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.Form1.resources
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.Properties.Resources.resources
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.csproj.GenerateResource.Cache
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\StudentsDatabase.mdf
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\StudentsDatabase_log.ldf
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.exe
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.pdb
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\EntityFramework.dll
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\System.Data.dll
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\EntityFramework.xml
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.exe
+C:\Users\Alua\Desktop\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.pdb
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.exe.config
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.exe
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.pdb
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\StudentsDatabase.mdf
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\StudentsDatabase_log.ldf
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.exe
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.pdb
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\EntityFramework.dll
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\System.Data.dll
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\EntityFramework.xml
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.csprojResolveAssemblyReference.cache
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.Form1.resources
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.Properties.Resources.resources
+C:\Users\Alua\Desktop\KBTU Fall'14\7week\ELA Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.csproj.GenerateResource.Cache
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.exe.config
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.exe
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.pdb
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\StudentsDatabase.mdf
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\StudentsDatabase_log.ldf
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.exe
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\ELALab3Students.pdb
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\EntityFramework.dll
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\System.Data.dll
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\EntityFramework.xml
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.csprojResolveAssemblyReference.cache
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.Form1.resources
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.Properties.Resources.resources
+C:\Users\Alua\Desktop\10 week\ELA Lab 4 Database\ELALab3Students\ELALab3Students\obj\Debug\ELALab3Students.csproj.GenerateResource.Cache
